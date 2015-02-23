@@ -1,7 +1,7 @@
-Course Project for Coursera's "Getting and Cleaning Data" 
-Submitted by Bisher Tarakji 2/2015
+##Course Project for Coursera's "Getting and Cleaning Data" 
+##Submitted by Bisher Tarakji 2/2015
 
-The following are just quick notes to the steps taken to obtain the tidy data:
+###The following are just quick notes to the steps taken to obtain the tidy data:
 
 1. The script should be run with the working directory pointing to INSIDE the Samsung data folder. Meaning the folder that has both the "train" and "test" folder within it.
 2. The library "dplyr" is required for last step
